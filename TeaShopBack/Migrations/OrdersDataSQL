@@ -1,0 +1,37 @@
+-- INSERT INTO [OnlineShop].[dbo].[Orders]
+-- (CustomerID, EmployeeID, OrderDate, RequiredDate, ShippedDate, ShipVia, Freight, ShipName, ShipAddress, ShipCity, ShipRegion, ShipPostalCode, ShipCountry)
+-- VALUES 
+-- (1, 3,'2025-03-15 15:05:00' , '2025-03-16 09:45:23', '2025-03-17 23:23:23', 3, 300, N'新竹貨運', N'仁愛路20巷5號', N'台北市', N'台灣本島', 123, N'台灣'),
+-- (2, 4,'2025-03-12 20:21:56' , '2025-03-15 09:20:23', '2025-03-17 12:12:12', 3, 300, N'順豐物流', N'文化一路一段20號', N'新北市', N'台灣本島', 123, N'台灣');
+-- --(1, 3,'2025-03-17 13:05:00' , '2025-03-17 19:23:00', '2025-03-17 21:21:00', 3, 300, N'黑貓', N'信義路100號', N'台北市', N'台灣本島', 123, N'台灣');
+-- GO
+
+-- SELECT TOP (1000) [OrderID]
+--       ,[CustomerID]
+--       ,[EmployeeID]
+--       ,[OrderDate]
+--       ,[RequiredDate]
+--       ,[ShippedDate]
+--       ,[ShipVia]
+--       ,[Freight]
+--       ,[ShipName]
+--       ,[ShipAddress]
+--       ,[ShipCity]
+--       ,[ShipRegion]
+--       ,[ShipPostalCode]
+--       ,[ShipCountry]
+--   FROM [OnlineShop].[dbo].[Orders]
+
+-- ALTER TABLE TableName 
+-- ALTER COLUMN ColumnName NVARCHAR(200) [NULL | NOT NULL]
+-- ALTER TABLE [OnlineShop].[dbo].[Order Details] 
+-- ALTER COLUMN Discount DECIMAL
+
+-- INSERT INTO [OnlineShop].[dbo].[Order Details]
+-- (OrderID, ProductID, Sugar, Iced, UnitPrice, Quantity, Discount)
+-- VALUES 
+-- (2, 4, N'半糖',N'少冰', 40, 1, 0),
+-- (2, 7, N'正常糖',N'完全去冰', 45, 2, 0)
+
+-- ALTER TABLE [OnlineShop].[dbo].[Order]
+-- ADD IsEnabled BIT NOT NULL DEFAULT 1;

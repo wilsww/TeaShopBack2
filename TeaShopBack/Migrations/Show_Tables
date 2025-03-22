@@ -1,0 +1,17 @@
+SELECT TOP (1000) [Name]
+    ,[Id]
+      ,[Price]
+      ,[Content]
+      ,[Description]
+      ,[Image]
+      ,[Stock]      
+      ,[CategoryId]
+  FROM [OnlineShop].[dbo].[Product]
+
+  SELECT TOP (1000) [Name]
+      ,[Id]
+  FROM [OnlineShop].[dbo].[Category]
+
+  SELECT TOP (1000) *  FROM [OnlineShop].[dbo].[Order]
+
+  SELECT TOP (1000) *  FROM [OnlineShop].[dbo].[OrderItem]

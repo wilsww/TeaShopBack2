@@ -1,0 +1,74 @@
+-- CREATE TABLE OnlineShop.dbo.Category
+-- (
+-- Id        INT    NOT NULL   PRIMARY KEY,
+-- Name      [NVARCHAR](MAX)  NULL
+-- );
+-- GO
+--Id = table.Column<int>(type: "int", nullable: false)
+--                         .Annotation("SqlServer:Identity", "1, 1"),
+--=========================================================================
+-- CREATE TABLE OnlineShop.dbo.Product
+-- (
+-- Id        INT    NOT NULL,
+-- Name      [NVARCHAR](MAX)  NULL,
+-- Price      INT  NOT NULL,
+-- CategoryId INT NOT NULL,
+-- Content NVARCHAR(MAX) NULL,
+-- Description NVARCHAR(MAX) NULL,
+-- Image varbinary(MAX) NULL,
+-- Stock INT NOT NULL,
+-- PRIMARY KEY (Id),
+-- FOREIGN KEY (CategoryId) REFERENCES Category (Id)
+-- );
+-- GO
+
+--=========================================================================
+
+-- CREATE TABLE OnlineShop.dbo.Comment
+-- (
+-- Id        INT    NOT NULL,
+-- UserName      [NVARCHAR](MAX)  NULL,
+-- Content NVARCHAR(MAX) NULL,
+-- Time DATETIME2 NOT NULL,
+-- ProductID INT NOT NULL,
+-- PRIMARY KEY (Id),
+-- FOREIGN KEY (ProductID) REFERENCES Product (Id)
+-- );
+-- GO
+
+
+--ALTER TABLE [OnlineShop].[dbo].[Comment] DROP CONSTRAINT FK__Comment__Product__3C69FB99;
+--ALTER TABLE [OnlineShop].[dbo].[Comment] DROP COLUMN ProductId;
+
+--ALTER TABLE [OnlineShop].[dbo].[Product] DROP CONSTRAINT [PK__Product__3214EC071F3D17AC];
+--ALTER TABLE [OnlineShop].[dbo].[Product] DROP COLUMN Id;
+
+--ALTER TABLE [OnlineShop].[dbo].[Product] ADD Id INT IDENTITY(1, 1) NOT NULL PRIMARY KEY;
+--ALTER TABLE [OnlineShop].[dbo].[Comment] ADD ProductId INT IDENTITY(1, 1) NOT NULL FOREIGN KEY REFERENCES Product (Id);
+
+
+--ALTER TABLE [OnlineShop].[dbo].[Product] DROP CONSTRAINT [FK__Product__Categor__398D8EEE];
+--DROP INDEX [IX_Product_CategoryId] ON [OnlineShop].[dbo].[Product];
+--ALTER TABLE [OnlineShop].[dbo].[Product] DROP COLUMN CategoryId;
+--ALTER TABLE [OnlineShop].[dbo].[Category] DROP CONSTRAINT [PK__Category__3214EC07F157FB20];
+
+--ALTER TABLE [OnlineShop].[dbo].[Category] DROP COLUMN Id;
+--ALTER TABLE [OnlineShop].[dbo].[Category] ADD Id INT IDENTITY(1, 1) NOT NULL PRIMARY KEY;
+
+--ALTER TABLE [OnlineShop].[dbo].[Product] ADD CategoryId INT NOT NULL FOREIGN KEY (CategoryId) REFERENCES Category (Id);
+
+
+--=========================================================================
+--  migrationBuilder.CreateIndex(
+--                 name: "IX_Product_CategoryId",
+--                 table: "Product",
+--                 column: "CategoryId");
+--CREATE INDEX IX_Product_CategoryId ON [OnlineShop].[dbo].[Product] (CategoryId);
+
+
+-- migrationBuilder.CreateIndex(
+--                 name: "IX_Comment_ProductID",
+--                 table: "Comment",
+--                 column: "ProductID");
+
+--CREATE INDEX IX_Comment_ProductID ON [OnlineShop].[dbo].[Comment] (ProductID);

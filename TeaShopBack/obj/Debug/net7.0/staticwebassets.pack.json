@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/js/scripts.js",
+      "PackagePath": "staticwebassets/js/scripts.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/ckeditor5/LICENSE.md"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/README.md",
+      "PackagePath": "staticwebassets/lib/ckeditor5/README.md"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/ckeditor.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/ckeditor.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/ckeditor.js.map",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/ckeditor.js.map"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/af.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/af.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/ar.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/ar.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/ast.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/ast.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/az.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/az.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/bg.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/bg.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/ca.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/ca.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/cs.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/cs.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/da.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/da.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/de-ch.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/de-ch.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/de.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/de.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/el.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/el.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/en-au.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/en-au.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/en-gb.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/en-gb.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/eo.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/eo.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/es.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/es.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/et.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/et.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/eu.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/eu.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/fa.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/fa.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/fi.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/fi.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/fr.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/fr.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/gl.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/gl.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/gu.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/gu.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/he.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/he.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/hi.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/hi.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/hr.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/hr.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/hu.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/hu.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/id.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/id.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/it.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/it.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/ja.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/ja.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/kk.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/kk.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/km.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/km.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/kn.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/kn.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/ko.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/ko.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/ku.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/ku.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/lt.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/lt.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/lv.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/lv.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/nb.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/nb.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/ne.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/ne.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/nl.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/nl.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/no.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/no.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/oc.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/oc.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/pl.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/pl.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/pt-br.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/pt-br.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/pt.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/pt.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/ro.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/ro.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/ru.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/ru.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/si.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/si.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/sk.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/sk.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/sl.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/sl.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/sq.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/sq.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/sr-latn.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/sr-latn.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/sr.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/sr.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/sv.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/sv.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/th.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/th.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/tk.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/tk.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/tr.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/tr.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/tt.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/tt.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/ug.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/ug.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/uk.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/uk.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/vi.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/vi.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/zh-cn.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/zh-cn.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/build/translations/zh.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/build/translations/zh.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/package.json",
+      "PackagePath": "staticwebassets/lib/ckeditor5/package.json"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/sample/index.html",
+      "PackagePath": "staticwebassets/lib/ckeditor5/sample/index.html"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/sample/styles.css",
+      "PackagePath": "staticwebassets/lib/ckeditor5/sample/styles.css"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/src/ckeditor.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/src/ckeditor.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/ckeditor5/webpack.config.js",
+      "PackagePath": "staticwebassets/lib/ckeditor5/webpack.config.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/wayne/Documents/My__Files/Jobs/Projects/TeaShopBack/TeaShopBack/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.TeaShopBack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.TeaShopBack.props",
+      "PackagePath": "build\\TeaShopBack.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TeaShopBack.props",
+      "PackagePath": "buildMultiTargeting\\TeaShopBack.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TeaShopBack.props",
+      "PackagePath": "buildTransitive\\TeaShopBack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
